@@ -1,7 +1,5 @@
-# Project 86
+# Project 88
 
-Barter System App, Stage 11
+Barter System App, Stage 13
 
-Added Functionality to limit active requests for a user only one at a time. 
-<br>
-Added MyReceivedObjects.js screen.
+Added Currency API to ExchangeScreen.js
